@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://store.test.genlotsports.com:8680/upload/file/Runner4.ipa</string>
+                    <string>http://store.test.genlotsports.com:8680/upload/file/flutter3.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -25,7 +25,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Flutter_demo4</string>
+                <string>Flutter</string>
             </dict>
         </dict>
     </array>
